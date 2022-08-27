@@ -1,4 +1,4 @@
-# UniTransformPropertyExtensionMethods
+# Kogane Transform Property Extension Methods
 
 GameObject 型や Component 型から Transform の Position、Rotation、Scale を操作できるようにする拡張メソッド
 

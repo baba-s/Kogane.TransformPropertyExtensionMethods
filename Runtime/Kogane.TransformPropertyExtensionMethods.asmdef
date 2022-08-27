@@ -1,5 +1,5 @@
 ﻿{
-    "name": "UniTransformPropertyExtensionMethods",
+    "name": "Kogane.TransformPropertyExtensionMethods",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
